@@ -1,7 +1,6 @@
 import numpy as np
 
 from colors import bcolors
-from matrix_utility import *
 from gaussian_elimination import gaussianElimination
 
 

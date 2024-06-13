@@ -88,9 +88,6 @@ if __name__ == '__main__':
     x0 = 1.5
 
 
-    # Fx_0 = 0         # For regular cubic sline
-    # Fx_n = 0
-
     print("func: " + str(f))
     print("x0 = " + str(x0) + "\n")
     natural_cubic_spline(f, x0)
